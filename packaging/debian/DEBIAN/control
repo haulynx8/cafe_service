@@ -1,0 +1,8 @@
+Package: cafe-service
+Version: 1.0.0-1
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Cafe Service
+Depends: libgtk-3-0, libblkid1, liblzma5
+Description: Cafe Service dashboard and online ordering application

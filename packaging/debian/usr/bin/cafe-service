@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /opt/cafe-service/cafe_service "$@"

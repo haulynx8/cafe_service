@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Cafe Service
+Comment=Cafe service dashboard
+Exec=cafe-service
+Terminal=false
+Categories=Office;

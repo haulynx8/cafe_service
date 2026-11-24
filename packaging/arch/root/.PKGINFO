@@ -1,0 +1,13 @@
+pkgname = cafe-service
+pkgbase = cafe-service
+pkgver = 1.0.0-1
+pkgdesc = Cafe Service dashboard and online ordering application
+url = https://example.invalid/cafe-service
+builddate = 0
+packager = Cafe Service
+size = 0
+arch = x86_64
+license = proprietary
+depend = gtk3
+depend = util-linux-libs
+depend = xz
